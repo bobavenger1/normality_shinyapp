@@ -11,4 +11,4 @@ To run the application, open up R and copy-paste the following code into the con
   
   install.packages("VGAM", dependencies = TRUE)
   
-  shiny::runGitHub("bobavenger1/normality_shinyapp")
+  shiny::runGitHub("matthewbranan/normality_shinyapp")
