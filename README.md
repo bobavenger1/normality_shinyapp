@@ -8,5 +8,7 @@ skewed distributions, and even multinomial distributions.
 To run the application, open up R and copy-paste the following code into the console (or into a script and run the code from there):
 
   install.packages("shiny", dependencies = TRUE)
+  
   install.packages("VGAM", dependencies = TRUE)
-  shiny::runGist("https://gist.github.com/bobavenger1/normality_shinyapp")
+  
+  shiny::runGitHub("bobavenger1/normality_shinyapp")
